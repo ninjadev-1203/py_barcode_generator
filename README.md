@@ -1,4 +1,4 @@
-# py_barcode_generator
+# py_Barcode_QRcode_generator
 
 # install package
 
