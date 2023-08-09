@@ -1,5 +1,8 @@
 build/
 dist/
+Aufträge 2023/
 barcode_generator.spec
 cairocffi-1.3.0-cp311-cp311-win_amd64.whl
 pycairo-1.21.0-cp311-cp311-win_amd64.whl
+test
+.gitignore

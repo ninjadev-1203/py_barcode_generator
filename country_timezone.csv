@@ -1,0 +1,248 @@
+Country Code,Country Name,Timezones
+AW,Aruba,America/Aruba
+AF,Afghanistan,Asia/Kabul
+AO,Angola,Africa/Luanda
+AI,Anguilla,America/Anguilla
+AX,Åland Islands,Europe/Mariehamn
+AL,Albania,Europe/Tirane
+AD,Andorra,Europe/Andorra
+AE,United Arab Emirates,Asia/Dubai
+AR,Argentina,"America/Argentina/Buenos_Aires, America/Argentina/Cordoba, America/Argentina/Salta, America/Argentina/Jujuy, America/Argentina/Tucuman, America/Argentina/Catamarca, America/Argentina/La_Rioja, America/Argentina/San_Juan, America/Argentina/Mendoza, America/Argentina/San_Luis, America/Argentina/Rio_Gallegos, America/Argentina/Ushuaia"
+AM,Armenia,Asia/Yerevan
+AS,American Samoa,Pacific/Pago_Pago
+AQ,Antarctica,"Antarctica/McMurdo, Antarctica/Casey, Antarctica/Davis, Antarctica/DumontDUrville, Antarctica/Mawson, Antarctica/Palmer, Antarctica/Rothera, Antarctica/Syowa, Antarctica/Troll, Antarctica/Vostok"
+TF,French Southern Territories,Indian/Kerguelen
+AG,Antigua and Barbuda,America/Antigua
+AU,Australia,"Australia/Lord_Howe, Antarctica/Macquarie, Australia/Hobart, Australia/Melbourne, Australia/Sydney, Australia/Broken_Hill, Australia/Brisbane, Australia/Lindeman, Australia/Adelaide, Australia/Darwin, Australia/Perth, Australia/Eucla"
+AT,Austria,Europe/Vienna
+AZ,Azerbaijan,Asia/Baku
+BI,Burundi,Africa/Bujumbura
+BE,Belgium,Europe/Brussels
+BJ,Benin,Africa/Porto-Novo
+BQ,"Bonaire, Sint Eustatius and Saba",America/Kralendijk
+BF,Burkina Faso,Africa/Ouagadougou
+BD,Bangladesh,Asia/Dhaka
+BG,Bulgaria,Europe/Sofia
+BH,Bahrain,Asia/Bahrain
+BS,Bahamas,America/Nassau
+BA,Bosnia and Herzegovina,Europe/Sarajevo
+BL,Saint Barthélemy,America/St_Barthelemy
+BY,Belarus,Europe/Minsk
+BZ,Belize,America/Belize
+BM,Bermuda,Atlantic/Bermuda
+BO,"Bolivia, Plurinational State of",America/La_Paz
+BR,Brazil,"America/Noronha, America/Belem, America/Fortaleza, America/Recife, America/Araguaina, America/Maceio, America/Bahia, America/Sao_Paulo, America/Campo_Grande, America/Cuiaba, America/Santarem, America/Porto_Velho, America/Boa_Vista, America/Manaus, America/Eirunepe, America/Rio_Branco"
+BB,Barbados,America/Barbados
+BN,Brunei Darussalam,Asia/Brunei
+BT,Bhutan,Asia/Thimphu
+BW,Botswana,Africa/Gaborone
+CF,Central African Republic,Africa/Bangui
+CA,Canada,"America/St_Johns, America/Halifax, America/Glace_Bay, America/Moncton, America/Goose_Bay, America/Blanc-Sablon, America/Toronto, America/Iqaluit, America/Atikokan, America/Winnipeg, America/Resolute, America/Rankin_Inlet, America/Regina, America/Swift_Current, America/Edmonton, America/Cambridge_Bay, America/Inuvik, America/Creston, America/Dawson_Creek, America/Fort_Nelson, America/Whitehorse, America/Dawson, America/Vancouver"
+CC,Cocos (Keeling) Islands,Indian/Cocos
+CH,Switzerland,Europe/Zurich
+CL,Chile,"America/Santiago, America/Punta_Arenas, Pacific/Easter"
+CN,China,"Asia/Shanghai, Asia/Urumqi"
+CI,Côte d'Ivoire,Africa/Abidjan
+CM,Cameroon,Africa/Douala
+CD,"Congo, The Democratic Republic of the","Africa/Kinshasa, Africa/Lubumbashi"
+CG,Congo,Africa/Brazzaville
+CK,Cook Islands,Pacific/Rarotonga
+CO,Colombia,America/Bogota
+KM,Comoros,Indian/Comoro
+CV,Cabo Verde,Atlantic/Cape_Verde
+CR,Costa Rica,America/Costa_Rica
+CU,Cuba,America/Havana
+CW,Curaçao,America/Curacao
+CX,Christmas Island,Indian/Christmas
+KY,Cayman Islands,America/Cayman
+CY,Cyprus,"Asia/Nicosia, Asia/Famagusta"
+CZ,Czechia,Europe/Prague
+DE,Germany,"Europe/Berlin, Europe/Busingen"
+DJ,Djibouti,Africa/Djibouti
+DM,Dominica,America/Dominica
+DK,Denmark,Europe/Copenhagen
+DO,Dominican Republic,America/Santo_Domingo
+DZ,Algeria,Africa/Algiers
+EC,Ecuador,"America/Guayaquil, Pacific/Galapagos"
+EG,Egypt,Africa/Cairo
+ER,Eritrea,Africa/Asmara
+EH,Western Sahara,Africa/El_Aaiun
+ES,Spain,"Europe/Madrid, Africa/Ceuta, Atlantic/Canary"
+EE,Estonia,Europe/Tallinn
+ET,Ethiopia,Africa/Addis_Ababa
+FI,Finland,Europe/Helsinki
+FJ,Fiji,Pacific/Fiji
+FK,Falkland Islands (Malvinas),Atlantic/Stanley
+FR,France,Europe/Paris
+FO,Faroe Islands,Atlantic/Faroe
+FM,"Micronesia, Federated States of","Pacific/Chuuk, Pacific/Pohnpei, Pacific/Kosrae"
+GA,Gabon,Africa/Libreville
+GB,United Kingdom,Europe/London
+GE,Georgia,Asia/Tbilisi
+GG,Guernsey,Europe/Guernsey
+GH,Ghana,Africa/Accra
+GI,Gibraltar,Europe/Gibraltar
+GN,Guinea,Africa/Conakry
+GP,Guadeloupe,America/Guadeloupe
+GM,Gambia,Africa/Banjul
+GW,Guinea-Bissau,Africa/Bissau
+GQ,Equatorial Guinea,Africa/Malabo
+GR,Greece,Europe/Athens
+GD,Grenada,America/Grenada
+GL,Greenland,"America/Nuuk, America/Danmarkshavn, America/Scoresbysund, America/Thule"
+GT,Guatemala,America/Guatemala
+GF,French Guiana,America/Cayenne
+GU,Guam,Pacific/Guam
+GY,Guyana,America/Guyana
+HK,Hong Kong,Asia/Hong_Kong
+HN,Honduras,America/Tegucigalpa
+HR,Croatia,Europe/Zagreb
+HT,Haiti,America/Port-au-Prince
+HU,Hungary,Europe/Budapest
+ID,Indonesia,"Asia/Jakarta, Asia/Pontianak, Asia/Makassar, Asia/Jayapura"
+IM,Isle of Man,Europe/Isle_of_Man
+IN,India,Asia/Kolkata
+IO,British Indian Ocean Territory,Indian/Chagos
+IE,Ireland,Europe/Dublin
+IR,"Iran, Islamic Republic of",Asia/Tehran
+IQ,Iraq,Asia/Baghdad
+IS,Iceland,Atlantic/Reykjavik
+IL,Israel,Asia/Jerusalem
+IT,Italy,Europe/Rome
+JM,Jamaica,America/Jamaica
+JE,Jersey,Europe/Jersey
+JO,Jordan,Asia/Amman
+JP,Japan,Asia/Tokyo
+KZ,Kazakhstan,"Asia/Almaty, Asia/Qyzylorda, Asia/Qostanay, Asia/Aqtobe, Asia/Aqtau, Asia/Atyrau, Asia/Oral"
+KE,Kenya,Africa/Nairobi
+KG,Kyrgyzstan,Asia/Bishkek
+KH,Cambodia,Asia/Phnom_Penh
+KI,Kiribati,"Pacific/Tarawa, Pacific/Kanton, Pacific/Kiritimati"
+KN,Saint Kitts and Nevis,America/St_Kitts
+KR,"Korea, Republic of",Asia/Seoul
+KW,Kuwait,Asia/Kuwait
+LA,Lao People's Democratic Republic,Asia/Vientiane
+LB,Lebanon,Asia/Beirut
+LR,Liberia,Africa/Monrovia
+LY,Libya,Africa/Tripoli
+LC,Saint Lucia,America/St_Lucia
+LI,Liechtenstein,Europe/Vaduz
+LK,Sri Lanka,Asia/Colombo
+LS,Lesotho,Africa/Maseru
+LT,Lithuania,Europe/Vilnius
+LU,Luxembourg,Europe/Luxembourg
+LV,Latvia,Europe/Riga
+MO,Macao,Asia/Macau
+MF,Saint Martin (French part),America/Marigot
+MA,Morocco,Africa/Casablanca
+MC,Monaco,Europe/Monaco
+MD,"Moldova, Republic of",Europe/Chisinau
+MG,Madagascar,Indian/Antananarivo
+MV,Maldives,Indian/Maldives
+MX,Mexico,"America/Mexico_City, America/Cancun, America/Merida, America/Monterrey, America/Matamoros, America/Chihuahua, America/Ciudad_Juarez, America/Ojinaga, America/Mazatlan, America/Bahia_Banderas, America/Hermosillo, America/Tijuana"
+MH,Marshall Islands,"Pacific/Majuro, Pacific/Kwajalein"
+MK,North Macedonia,Europe/Skopje
+ML,Mali,Africa/Bamako
+MT,Malta,Europe/Malta
+MM,Myanmar,Asia/Yangon
+ME,Montenegro,Europe/Podgorica
+MN,Mongolia,"Asia/Ulaanbaatar, Asia/Hovd, Asia/Choibalsan"
+MP,Northern Mariana Islands,Pacific/Saipan
+MZ,Mozambique,Africa/Maputo
+MR,Mauritania,Africa/Nouakchott
+MS,Montserrat,America/Montserrat
+MQ,Martinique,America/Martinique
+MU,Mauritius,Indian/Mauritius
+MW,Malawi,Africa/Blantyre
+MY,Malaysia,"Asia/Kuala_Lumpur, Asia/Kuching"
+YT,Mayotte,Indian/Mayotte
+NA,Namibia,Africa/Windhoek
+NC,New Caledonia,Pacific/Noumea
+NE,Niger,Africa/Niamey
+NF,Norfolk Island,Pacific/Norfolk
+NG,Nigeria,Africa/Lagos
+NI,Nicaragua,America/Managua
+NU,Niue,Pacific/Niue
+NL,Netherlands,Europe/Amsterdam
+NO,Norway,Europe/Oslo
+NP,Nepal,Asia/Kathmandu
+NR,Nauru,Pacific/Nauru
+NZ,New Zealand,"Pacific/Auckland, Pacific/Chatham"
+OM,Oman,Asia/Muscat
+PK,Pakistan,Asia/Karachi
+PA,Panama,America/Panama
+PN,Pitcairn,Pacific/Pitcairn
+PE,Peru,America/Lima
+PH,Philippines,Asia/Manila
+PW,Palau,Pacific/Palau
+PG,Papua New Guinea,"Pacific/Port_Moresby, Pacific/Bougainville"
+PL,Poland,Europe/Warsaw
+PR,Puerto Rico,America/Puerto_Rico
+KP,"Korea, Democratic People's Republic of",Asia/Pyongyang
+PT,Portugal,"Europe/Lisbon, Atlantic/Madeira, Atlantic/Azores"
+PY,Paraguay,America/Asuncion
+PS,"Palestine, State of","Asia/Gaza, Asia/Hebron"
+PF,French Polynesia,"Pacific/Tahiti, Pacific/Marquesas, Pacific/Gambier"
+QA,Qatar,Asia/Qatar
+RE,Réunion,Indian/Reunion
+RO,Romania,Europe/Bucharest
+RU,Russian Federation,"Europe/Kaliningrad, Europe/Moscow, Europe/Kirov, Europe/Volgograd, Europe/Astrakhan, Europe/Saratov, Europe/Ulyanovsk, Europe/Samara, Asia/Yekaterinburg, Asia/Omsk, Asia/Novosibirsk, Asia/Barnaul, Asia/Tomsk, Asia/Novokuznetsk, Asia/Krasnoyarsk, Asia/Irkutsk, Asia/Chita, Asia/Yakutsk, Asia/Khandyga, Asia/Vladivostok, Asia/Ust-Nera, Asia/Magadan, Asia/Sakhalin, Asia/Srednekolymsk, Asia/Kamchatka, Asia/Anadyr"
+RW,Rwanda,Africa/Kigali
+SA,Saudi Arabia,Asia/Riyadh
+SD,Sudan,Africa/Khartoum
+SN,Senegal,Africa/Dakar
+SG,Singapore,Asia/Singapore
+GS,South Georgia and the South Sandwich Islands,Atlantic/South_Georgia
+SH,"Saint Helena, Ascension and Tristan da Cunha",Atlantic/St_Helena
+SJ,Svalbard and Jan Mayen,Arctic/Longyearbyen
+SB,Solomon Islands,Pacific/Guadalcanal
+SL,Sierra Leone,Africa/Freetown
+SV,El Salvador,America/El_Salvador
+SM,San Marino,Europe/San_Marino
+SO,Somalia,Africa/Mogadishu
+PM,Saint Pierre and Miquelon,America/Miquelon
+RS,Serbia,Europe/Belgrade
+SS,South Sudan,Africa/Juba
+ST,Sao Tome and Principe,Africa/Sao_Tome
+SR,Suriname,America/Paramaribo
+SK,Slovakia,Europe/Bratislava
+SI,Slovenia,Europe/Ljubljana
+SE,Sweden,Europe/Stockholm
+SZ,Eswatini,Africa/Mbabane
+SX,Sint Maarten (Dutch part),America/Lower_Princes
+SC,Seychelles,Indian/Mahe
+SY,Syrian Arab Republic,Asia/Damascus
+TC,Turks and Caicos Islands,America/Grand_Turk
+TD,Chad,Africa/Ndjamena
+TG,Togo,Africa/Lome
+TH,Thailand,Asia/Bangkok
+TJ,Tajikistan,Asia/Dushanbe
+TK,Tokelau,Pacific/Fakaofo
+TM,Turkmenistan,Asia/Ashgabat
+TL,Timor-Leste,Asia/Dili
+TO,Tonga,Pacific/Tongatapu
+TT,Trinidad and Tobago,America/Port_of_Spain
+TN,Tunisia,Africa/Tunis
+TR,Turkey,Europe/Istanbul
+TV,Tuvalu,Pacific/Funafuti
+TW,"Taiwan, Province of China",Asia/Taipei
+TZ,"Tanzania, United Republic of",Africa/Dar_es_Salaam
+UG,Uganda,Africa/Kampala
+UA,Ukraine,"Europe/Simferopol, Europe/Kyiv"
+UM,United States Minor Outlying Islands,"Pacific/Midway, Pacific/Wake"
+UY,Uruguay,America/Montevideo
+US,United States,"America/New_York, America/Detroit, America/Kentucky/Louisville, America/Kentucky/Monticello, America/Indiana/Indianapolis, America/Indiana/Vincennes, America/Indiana/Winamac, America/Indiana/Marengo, America/Indiana/Petersburg, America/Indiana/Vevay, America/Chicago, America/Indiana/Tell_City, America/Indiana/Knox, America/Menominee, America/North_Dakota/Center, America/North_Dakota/New_Salem, America/North_Dakota/Beulah, America/Denver, America/Boise, America/Phoenix, America/Los_Angeles, America/Anchorage, America/Juneau, America/Sitka, America/Metlakatla, America/Yakutat, America/Nome, America/Adak, Pacific/Honolulu"
+UZ,Uzbekistan,"Asia/Samarkand, Asia/Tashkent"
+VA,Holy See (Vatican City State),Europe/Vatican
+VC,Saint Vincent and the Grenadines,America/St_Vincent
+VE,"Venezuela, Bolivarian Republic of",America/Caracas
+VG,"Virgin Islands, British",America/Tortola
+VI,"Virgin Islands, U.S.",America/St_Thomas
+VN,Viet Nam,Asia/Ho_Chi_Minh
+VU,Vanuatu,Pacific/Efate
+WF,Wallis and Futuna,Pacific/Wallis
+WS,Samoa,Pacific/Apia
+YE,Yemen,Asia/Aden
+ZA,South Africa,Africa/Johannesburg
+ZM,Zambia,Africa/Lusaka
+ZW,Zimbabwe,Africa/Harare

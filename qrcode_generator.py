@@ -64,6 +64,7 @@ class QRcodeGenerator:
         maxPathLen = 50
         self.label_project_path.configure(
             text=("PN: " + pn_path[:maxPathLen] + '/ ... /' + self.PN) if len(pn_path) > maxPathLen else pn_path)
+
         self.get_files_in_directory(pn_path)
         self.delete_all_tree_items()
         for i in range(len(self.DNs)):
@@ -71,10 +72,16 @@ class QRcodeGenerator:
         self.buttonGen.configure(
             text="Generate QRcode (" + str(len(self.DNs)) + ")")
 
+    def convert_to_pdf(self, file):
+        pass
+
     def get_files_in_directory(self, directory):
         self.DNs = []
         for root, dirs, files in os.walk(directory):
             for file in files:
+                print('==========', dirs)
+                if not file[file.rfind('.'):] == '.pdf':
+                    self.convert_to_pdf(file)
                 file = file[:file.rfind('.')]
                 if not file in self.DNs:
                     self.DNs.append(file)
